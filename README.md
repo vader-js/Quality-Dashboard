@@ -4,7 +4,7 @@
 The **SME Quality Dashboard** is an interactive analytics dashboard built in **Google Looker Studio** to evaluate the performance and quality of AI Trainers / Subject Matter Experts (SMEs) involved in audit workflows.
 
 It provides clear visibility into **accuracy, recall, and F1 score** at both individual and aggregate levels, enabling data-driven quality assessment and operational decisions.
-
+![Metric WoW signals](assets/title-metric-image.png)
 ---
 
 ## 🎯 Problem This Solves
